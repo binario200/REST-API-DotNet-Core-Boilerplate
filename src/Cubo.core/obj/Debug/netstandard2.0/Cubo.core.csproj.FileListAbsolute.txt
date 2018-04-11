@@ -1,0 +1,8 @@
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/bin/Debug/netstandard2.0/Cubo.core.deps.json
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/bin/Debug/netstandard2.0/Cubo.core.dll
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/bin/Debug/netstandard2.0/Cubo.core.pdb
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/obj/Debug/netstandard2.0/Cubo.core.csproj.CoreCompileInputs.cache
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/obj/Debug/netstandard2.0/Cubo.core.AssemblyInfoInputs.cache
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/obj/Debug/netstandard2.0/Cubo.core.AssemblyInfo.cs
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/obj/Debug/netstandard2.0/Cubo.core.dll
+/Users/loko/Workspace/C#/Cubo/src/Cubo.core/obj/Debug/netstandard2.0/Cubo.core.pdb

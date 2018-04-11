@@ -1,0 +1,12 @@
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/bin/Debug/netcoreapp2.0/Cubo.api.deps.json
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/bin/Debug/netcoreapp2.0/Cubo.api.runtimeconfig.json
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/bin/Debug/netcoreapp2.0/Cubo.api.runtimeconfig.dev.json
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/bin/Debug/netcoreapp2.0/Cubo.api.dll
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/bin/Debug/netcoreapp2.0/Cubo.api.pdb
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/bin/Debug/netcoreapp2.0/Cubo.core.dll
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/bin/Debug/netcoreapp2.0/Cubo.core.pdb
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/obj/Debug/netcoreapp2.0/Cubo.api.csproj.CoreCompileInputs.cache
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/obj/Debug/netcoreapp2.0/Cubo.api.AssemblyInfoInputs.cache
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/obj/Debug/netcoreapp2.0/Cubo.api.AssemblyInfo.cs
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/obj/Debug/netcoreapp2.0/Cubo.api.dll
+/Users/loko/Workspace/C#/Cubo/src/Cubo.api/obj/Debug/netcoreapp2.0/Cubo.api.pdb
