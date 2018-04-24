@@ -16,10 +16,10 @@ namespace Cubo.Core.Repositories
             return await Task.FromResult(bucket);
         }
 
-        public async Task<IEnumerable<string>> GetNameAsync()
+        public async Task<IEnumerable<string>> GetNamesAsync()
         => await Task.FromResult(_buckets.Select(x => x.Name));
 
-        public async Task AddAsyncBucket(Bucket bucket)
+        public async Task AddAsync(Bucket bucket)
         {
             _buckets.Add(bucket);
             await Task.CompletedTask;

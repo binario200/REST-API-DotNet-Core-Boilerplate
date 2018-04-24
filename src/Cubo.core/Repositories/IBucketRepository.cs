@@ -8,8 +8,8 @@ namespace Cubo.Core.Repositories
     {
         // CQS command and query separation
         Task<Bucket> GetAsync(string name);
-        Task<IEnumerable<string>> GetNameAsync();
-        Task AddAsyncBucket(Bucket bucket);
+        Task<IEnumerable<string>> GetNamesAsync();
+        Task AddAsync(Bucket bucket);
         Task UpdateAsync(Bucket bucket);
         Task RemoveAsync(string name);        
     }
