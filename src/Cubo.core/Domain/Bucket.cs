@@ -44,13 +44,12 @@ namespace Cubo.Core.Domain
         public void AddItem(string key, string value)
         {
             var fixedKey = key.ToLowerInvariant();
-            var item = Items.Any( i => i.Key == fixedKey);
 
-            if (item == null)
+            if(Items.Any(x => x.Key == fixedKey))
             {
                 throw new Exception($"Item: '{key}' already exists in a bucket: '{Name}'. ");
             }
-
+         
             _items.Add( new Item(key, value) );
 
         }
